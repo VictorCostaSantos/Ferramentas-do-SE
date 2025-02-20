@@ -1,0 +1,57 @@
+body{
+    background: #1e1e1e;
+    
+}
+
+.cabecalho{
+    color: #fff;
+    background-color: #e68c78;
+    height: 98px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+.cabecalho nav { 
+    display: flex;
+    justify-content: end;
+    
+}
+
+.cabecalho nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    color: #fff;
+    
+    
+}
+
+.cabecalho nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5rem;  
+    font-family: "Inter", serif;
+}
+
+.cabecalho img{
+   width: 4.375rem;
+   height: 3.9375rem;
+   margin-right: 50px;
+   
+}
+
+main h1{
+    font-family: "Chakra Petch", serif;
+    color: #fde4e2;
+    font-size: 2.25rem;
+    font-weight: bold;
+    padding: 5%;
+    text-align: center;
+}
+
+
+
