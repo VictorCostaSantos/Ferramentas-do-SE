@@ -80,10 +80,11 @@ a{
 }
 
 .card_container {
-    width: 25%;  
     display: flex;
     justify-content: flex-start;
     transition: transform 0.3s ease;
+    width: 350px;
+    height: 225px;
 }
 
 .card_container div {
@@ -100,6 +101,9 @@ a{
     );
     transition: 0.5s;
     border-radius: 20px;
+    width: 350px;
+    height: 225px;
+    box-sizing: border-box;
 }
 
 .card_container:hover div {

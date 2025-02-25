@@ -1,0 +1,177 @@
+[
+  {
+    "categoria": "Fórum",
+    "links": [
+      {
+        "titulo": "Alocação",
+        "link": "https://docs.google.com/spreadsheets/d/1P4bVPeQHJK2eGpjUTCFGPn68tYACvOw8FofPOH4gpLQ/edit?gid=732414985#gid=732414985&fvid=1727139082",
+        "descricao": "Planilha de alocação",
+        "imagem": "assets/alocacao.png"
+      },
+      {
+        "titulo": "Mapeamento de percepções",
+        "link": "https://docs.google.com/spreadsheets/d/1jvNaGTw3Ef2a0bUVypQKWe8jhxM7Qqxem1J1jXVxJdQ/edit?gid=623253666#gid=623253666",
+        "descricao": "Feedback dos estudantes",
+        "imagem": "assets/mapeamento.png"
+      },
+      {
+        "titulo": "Notion SE",
+        "link": "https://www.notion.so/grupoalura/Suporte-Educacional-SE-9763edff4c344a06b6713c5af51c42a1?pvs=4",
+        "descricao": "Notion do Suporte Educacional",
+        "imagem": "assets/Notion.png"
+      },
+      {
+        "titulo": "BI do fórum",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiMmQzODFmYTctYzUyOC00ZmUzLTg2YjYtZmUxM2E0ODY1ZGE4IiwidCI6ImVjYTQ5NmZiLTBlOGYtNDYzMC04MGFiLTczMTlhMDhlY2E2ZCJ9",
+        "descricao": "Dashboard de Business Intelligence do fórum",
+        "imagem": "assets/BI.png"
+      },
+      {
+        "titulo": "ClickUp",
+        "link": "https://app.clickup.com/3148001/home",
+        "descricao": "Quadro de tarefas no ClickUp",
+        "imagem": "assets/clickup.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Softwares",
+    "links": [
+      {
+        "titulo": "Flameshot",
+        "link": "https://flameshot.org/",
+        "descricao": "Ferramenta para capturas de tela",
+        "imagem": "assets/flameshot.png"
+      },
+      {
+        "titulo": "ScreenToGif",
+        "link": "https://www.screentogif.com/",
+        "descricao": "Ferramenta para criar GIFs a partir da tela",
+        "imagem": "assets/screentogif.png"
+      },
+      {
+        "titulo": "PromptCopy",
+        "link": "https://chromewebstore.google.com/detail/prompt-copy/edhpagafnjfaeafhijlombbpdoffimhb",
+        "descricao": "Extensão para copiar prompts",
+        "imagem": "assets/promptcopy.png"
+      },
+      {
+        "titulo": "ScubaRadar",
+        "link": "https://chromewebstore.google.com/detail/scuba-radar-v2/kflkmnllnlafgdmmaajheeeggdcjgika?pli=1",
+        "descricao": "Extensão ScubaRadar v2",
+        "imagem": "assets/scubaradar.png"
+      },
+      {
+        "titulo": "GoFullPage",
+        "link": "https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl",
+        "descricao": "Extensão para captura de página inteira",
+        "imagem": "assets/gofullpage.png"
+      }
+    ]
+  },
+  {
+    "categoria": "IA",
+    "links": [
+      {
+        "titulo": "ChatGPT",
+        "link": "https://chatgpt.com/",
+        "descricao": "Plataforma de chat com inteligência artificial",
+        "imagem": "assets/gpt.png"
+      },
+      {
+        "titulo": "Claude",
+        "link": "https://claude.ai/login",
+        "descricao": "Assistente de IA da Anthropic",
+        "imagem": "assets/claude.png"
+      },
+      {
+        "titulo": "Leonardo.AI",
+        "link": "https://leonardo.ai/",
+        "descricao": "Plataforma de geração de imagens por IA",
+        "imagem": "assets/leonardo.png"
+      },
+      {
+        "titulo": "Copilot",
+        "link": "https://copilot.microsoft.com/chats/eJ334sg6w5m2VPfX8VRMh",
+        "descricao": "Assistente de IA da Microsoft",
+        "imagem": "assets/copilot.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Outros",
+    "links": [
+      {
+        "titulo": "Calendário Alura",
+        "link": "https://docs.google.com/spreadsheets/d/1sSRkxayLhFi3BQXxyaRwUkLypJ4Fbfek2xm21DmYoQg/edit",
+        "descricao": "Calendário de eventos e atividades",
+        "imagem": "assets/mapeamento.png"
+      },
+      {
+        "titulo": "ClickUp Correções",
+        "link": "https://app.clickup.com/3148001/v/l/6-901303830551-1",
+        "descricao": "Quadro de correções no ClickUp",
+        "imagem": "assets/clickup.png"
+      },
+      {
+        "titulo": "Agenda SE",
+        "link": "https://outlook.office.com/calendar/view/",
+        "descricao": "Agenda do Suporte Educacional",
+        "imagem": "assets/notebook.png"
+      },
+      {
+        "titulo": "Catálogo",
+        "link": "https://catalogo-alura.vercel.app/",
+        "descricao": "Catálogo de cursos da Alura",
+        "imagem": "assets/logoSE.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Squads",
+    "links": [
+      {
+        "titulo": "E-mail Oracle One",
+        "link": "mailto:contato-one@alura.com.br",
+        "descricao": "Contato do programa Oracle One na Alura",
+        "imagem": "assets/notebook.png"
+      },
+      {
+        "titulo": "E-mail Banco do Brasil",
+        "link": "mailto:unibb@alura.com.br",
+        "descricao": "Contato com suporte do BB na Alura",
+        "imagem": "assets/notebook.png"
+      },
+      {
+        "titulo": "Horários de trabalho",
+        "link": "https://docs.google.com/spreadsheets/d/1rrbSkZCfw9rNFK4FFbWrX_AYJFSzKmlXXm2IfOZEtoE/edit?gid=0#gid=0",
+        "descricao": "Planilha com horários da equipe",
+        "imagem": "assets/mapeamento.png"
+      },
+      {
+        "titulo": "Planilha de férias",
+        "link": "https://docs.google.com/spreadsheets/d/1REXbnVuojtaDYVt5nH8HMDs__yS69maHdEk0cVHViSE/edit?usp=sharing",
+        "descricao": "Planilha para gerenciamento de férias",
+        "imagem": "assets/mapeamento.png"
+      },
+      {
+        "titulo": "Planilha de processos",
+        "link": "https://docs.google.com/spreadsheets/d/172HFo6C4MR1B4LMfNG5eOEF3Gs09zc7x9WPJ1VZJZC4/edit?gid=2130637940#gid=2130637940",
+        "descricao": "Documentação de processos",
+        "imagem": "assets/mapeamento.png"
+      },
+      {
+        "titulo": "Docs da Lores sobre correção de curso",
+        "link": "https://docs.google.com/document/d/1kjyU3PQyAkE4QQlXURiI1Lw4P68nGGtzBIrNvy9ipzI/edit#heading=h.nt8ysfkxhwvy",
+        "descricao": "Documentação sobre correção de cursos",
+        "imagem": "assets/Notion.png"
+      },
+      {
+        "titulo": "Planilha co-host / sugestões / Discord ",
+        "link": "https://docs.google.com/spreadsheets/d/1dq74eoaz99F4-q9jlpyu9DCKZ-svvz2mZNKWA4AGbRo/edit?usp=sharing",
+        "descricao": "Recursos diversos",
+        "imagem": "assets/mapeamento.png"
+      }
+    ]
+  }
+]
