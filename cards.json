@@ -212,7 +212,7 @@
         "titulo": "Calendário Alura",
         "link": "https://docs.google.com/spreadsheets/d/1sSRkxayLhFi3BQXxyaRwUkLypJ4Fbfek2xm21DmYoQg/edit",
         "descricao": "Calendário de eventos e atividades",
-        "imagem": "assets/mapeamento.png"
+        "imagem": "assets/calendario.jpg"
       },
       {
         "titulo": "ClickUp Correções",
@@ -224,7 +224,7 @@
         "titulo": "Agenda SE",
         "link": "https://outlook.office.com/calendar/view/",
         "descricao": "Agenda do Suporte Educacional",
-        "imagem": "assets/notebook.png"
+        "imagem": "assets/agenda.png"
       },
       {
         "titulo": "Catálogo",
@@ -241,13 +241,13 @@
         "titulo": "E-mail Oracle One",
         "link": "mailto:contato-one@alura.com.br",
         "descricao": "Contato do programa Oracle One na Alura",
-        "imagem": "assets/notebook.png"
+        "imagem": "assets/one.png"
       },
       {
         "titulo": "E-mail Banco do Brasil",
         "link": "mailto:unibb@alura.com.br",
         "descricao": "Contato com suporte do BB na Alura",
-        "imagem": "assets/notebook.png"
+        "imagem": "assets/bb.png"
       },
       {
         "titulo": "Horários de trabalho",
@@ -271,7 +271,7 @@
         "titulo": "Como fazer correções em cursos",
         "link": "https://docs.google.com/document/d/1kjyU3PQyAkE4QQlXURiI1Lw4P68nGGtzBIrNvy9ipzI/edit#heading=h.nt8ysfkxhwvy",
         "descricao": "Documentação sobre correção de cursos",
-        "imagem": "assets/Notion.png"
+        "imagem": "assets/correcoes.png"
       },
       {
         "titulo": "Planilha co-host / sugestões / Discord ",
